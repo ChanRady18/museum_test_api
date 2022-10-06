@@ -1,0 +1,147 @@
+{
+  "Data":{
+    {
+        "id": "8",
+        "title": "Buddha",
+        "type": "Sculpture",
+        "place": "On view at The Met Fifth Avenue in Gallery 245",
+        "period": "pre-Angkor period",
+        "content": "Early in the seventh century a new Buddha type appeared in Southeast Asia, inspired by innovations that were taking place in northern India. The wellspring was the important monastic school at Sarnath. Its workshops undoubtedly supplied Buddha images to a great variety of clients, including pilgrim-monks who would have purchased small images\u2014often, one may surmise, made of wood\u2014easily transportable to their homelands. This Buddha, slender and ethereal, is a superb example of the early acceptance of the northern Indian model of ideal Buddhahood, seen in the increasingly detached and otherworldly expression and the use of body-defining drapery.",
+        "image": "https:\/\/collectionapi.metmuseum.org\/api\/collection\/v1\/iiif\/38160\/1337803\/main-image",
+        "created_at": "2022-07-13 00:03:55",
+        "updated_at": "2022-07-13 00:03:55"
+    },
+    {
+        "id": "9",
+        "title": "Brahma",
+        "type": "Sculpture",
+        "place": "On view at The Met Fifth Avenue in Gallery 249",
+        "period": "Angkor period",
+        "content": "This representation of Brahma, the Brahmanical god of creation and ancestor of all universes, is understood to be omnipresent. Hence he is depicted with four faces and four arms, evoking his universality. Brahma\u2019s skirt-cloth (sampot) is in the Bakheng style, widely favored in the early tenth century and named after sculptures associated with the Bakheng temple. It is knee length, is drawn up between the legs and secured at the back, and has distinctive pleated \u201cdouble-anchor,\u201d or \u201cfishtail,\u201d pendants in front. The piled-up dreadlock hair (jatamukuta) is multifaceted to reflect the four faces it serves, and is secured with a string of pearls; each face of Brahma wears a large diadem, and a speckled treatment of the lower face indicates that he is bearded. This sculpture would have occupied a subsidiary shrine at a temple complex dedicated in all likelihood to Shiva.",
+        "image": "https:\/\/collectionapi.metmuseum.org\/api\/collection\/v1\/iiif\/38265\/149662\/main-image",
+        "created_at": "2022-07-13 00:05:36",
+        "updated_at": "2022-07-13 00:05:36"
+    },
+    {
+        "id": "10",
+        "title": "Standing Ganesha",
+        "type": "Sculpture",
+        "place": "On view at The Met Fifth Avenue in Gallery 245",
+        "period": "pre-Angkor period",
+        "content": "Ganesha is the Hindu elephant-headed deity who removes obstacles and is thus the god of success; in this sense, he is a god of great importance for everyday existence. He was venerated first, before the worshipper turned to the other gods, in order to remove potential obstacles between the worshipper and the divine. In Southeast Asia, Ganesha has a more independent status than in India; his images were often housed in separate temples as primary icons of worship. Here, Ganesha is shown wearing a short wraparound skirt (sampot), the front end of which falls down the center in a series of flaring folds characteristic of the Prasat Andet style.",
+        "image": "https:\/\/collectionapi.metmuseum.org\/api\/collection\/v1\/iiif\/38159\/149690\/main-image",
+        "created_at": "2022-07-13 00:06:43",
+        "updated_at": "2022-07-13 00:06:43"
+    },
+    {
+        "id": "11",
+        "title": "Shiva",
+        "type": "Sculpture",
+        "place": "On view at The Met Fifth Avenue in Gallery 245",
+        "period": "pre-Angkor period",
+        "content": "Sculptures of Shiva in human form began to appear in Khmer art in the seventh century, probably in response to the rising popularity of the Vaishnava cult that celebrated Vishnu as a king-like divinity, accessible and benign. The slim, almost adolescent figure displays a disconcerting realism in the modeling of the pectoral muscles and the subtle suggestion of the underlying ribcage. Yet the face is strong and authoritative\u2014the face of a stern god\u2014with a mustache, full lips, and strong arched eyebrows. A vertical third eye marks the forehead.",
+        "image": "https:\/\/collectionapi.metmuseum.org\/api\/collection\/v1\/iiif\/38158\/1337796\/main-image",
+        "created_at": "2022-07-13 00:09:46",
+        "updated_at": "2022-07-13 00:09:46"
+    },
+    {
+        "id": "12",
+        "title": "Standing Shiva",
+        "type": "Sculpture",
+        "place": "On view at The Met Fifth Avenue in Gallery 249",
+        "period": "Angkor period",
+        "content": "This figure is the most intact metal image surviving from Angkor. It belongs to a small group of metal sculptures of Hindu deities associated with royal cult practices that was discovered in Khmer territories in Cambodia and northeastern Thailand. Although it defies ready identification\u200a\u2014\u200athe gesturing hands neither conform to a standard iconographic mudra nor hold key attributes\u200a\u2014\u200athe figure may portray Shiva in anthropomorphic form, an unusual representation in Khmer art. It is possible that the sculpture served a dual purpose, representing primarily a cult icon for worship in a royal sanctuary and also acting as an ancestor image of a deceased ruler.",
+        "image": "https:\/\/collectionapi.metmuseum.org\/api\/collection\/v1\/iiif\/39097\/149660\/main-image",
+        "created_at": "2022-07-13 00:13:01",
+        "updated_at": "2022-07-13 00:13:01"
+    },
+    {
+        "id": "13",
+        "title": "Bodhisattva Avaolkiteshvara",
+        "type": "Sculpture",
+        "place": "On view at The Met Fifth Avenue in Gallery 245",
+        "period": "pre-Angkor period",
+        "content": "This four-armed Avalokiteshvara relates to a cache of small icons recovered by chance at the early eighth-century Khmer brick-and-sandstone temple Prasat Ak Yom, located on what is now an embankment of the West Baray, the eleventh-century reservoir in Angkor. This temple was likely the earliest step-pyramid temple in Khmer history. It has two doorjamb inscriptions, dated 674 and 704, respectively. During excavations in the 1930s, a set of bronzes was found secreted away in a cavity behind a lintel. This bronze is probably from the same workshop that supplied the Prasat Ak Yom temple with its images.",
+        "image": "https:\/\/collectionapi.metmuseum.org\/api\/collection\/v1\/iiif\/39092\/1337797\/main-image",
+        "created_at": "2022-07-13 00:15:25",
+        "updated_at": "2022-07-13 00:15:25"
+    },
+    {
+        "id": "14",
+        "title": "Buddha Protected by a Seven-headed Naga",
+        "type": "Sculpture",
+        "place": "On view at The Met Fifth Avenue in Gallery 245",
+        "period": "Angkor period",
+        "content": "This fragmentary sculpture can be associated with the late phase of Buddhist patronage in the vicinity of Angkor Thom, at Angkor, under the reign of King Jayavarman VII (r. 1181\u20131218), a devout Mahayana Buddhist. It depicts what must be assumed was the seated Buddha in deep meditation, resting on the coils of a snake that raises its seven-headed hood above the Buddha\u2019s head. The cult of the animistic naga (snake-serpent) is an ancient practice in India and was readily taken up in Angkorian Cambodia to reflect a meeting of Indic and local cults that acknowledge the power of snake-spirits.",
+        "image": "https:\/\/collectionapi.metmuseum.org\/api\/collection\/v1\/iiif\/38451\/79465\/main-image",
+        "created_at": "2022-07-13 00:16:48",
+        "updated_at": "2022-07-13 00:16:48"
+    },
+    {
+        "id": "15",
+        "title": "Bust of Hevajra",
+        "type": "Sculpture",
+        "place": "On view at The Met Fifth Avenue in Gallery 245",
+        "period": "Angkor period",
+        "content": "This colossal bust of the Esoteric Buddhist god Hevajra comes from the ruins of the ancient site of Angkor in northwestern Cambodia. It is said to have been found near the East Gate (the Gate of the Dead) of the great walled city of Angkor Thom, built by Jayavarman VII (r. 1181\u20131219). The Bayon, sited at the very center of Angkor Thom, was one of the last major monuments of the Khmer empire.\n\nThis sculpture is fragmentary. The top head is missing. If the sculpture was, in fact, intended to represent the dancing Hevajra, it would have had eight arms on each side. Quite a few small bronze sculptures confirm this depiction. To judge from the rough surface of parts of this sculpture, it was never completed.",
+        "image": "https:\/\/collectionapi.metmuseum.org\/api\/collection\/v1\/iiif\/38304\/149661\/main-image",
+        "created_at": "2022-07-13 00:17:29",
+        "updated_at": "2022-07-13 00:17:29"
+    },
+    {
+        "id": "16",
+        "title": "Guardian Lion",
+        "type": "Sculpture",
+        "place": "On view at The Met Fifth Avenue in Gallery 245",
+        "period": "11th\u2013early 12th century",
+        "content": "Guardian lions flanked the main approaches to the sanctuary of most Khmer temples and were also placed along the stairways and on terraces. The lion, representing royalty, strength, and courage, was the personal symbol of the Khmer kings, who were believed to be gods as well. Therefore, the lion as guardian of the sacred precinct suggested the ability to ward off evil through both divine and royal protection.\nThis sculpture is fragmentary. The top head is missing. If the sculpture was, in fact, intended to represent the dancing Hevajra, it would have had eight arms on each side. Quite a few small bronze sculptures confirm this depiction. To judge from the rough surface of parts of this sculpture, it was never completed.",
+        "image": "https:\/\/collectionapi.metmuseum.org\/api\/collection\/v1\/iiif\/38449\/95942\/main-image",
+        "created_at": "2022-07-13 00:19:12",
+        "updated_at": "2022-07-13 00:19:12"
+    },
+    {
+        "id": "17",
+        "title": "STANDING BUDDHA",
+        "type": "Bronze",
+        "place": "National Museum of Cambodia,\nPhnom Penh",
+        "period": "VI-VIIth centuries",
+        "content": "There are two types of Buddha statues in Khmer art: the unadorned and the adorned Buddha. This figure is an unadorned Buddha (with simple monastic robes). His figure is specifically presented by distinctive characteristics called  \u2018Sambhokaya\u2019.\nThe draping style of the monastic robes in our time is indeed the same as that of the Buddha. There are three types of monastic robes: under garment (sampot ngout), the robe that covers the shoulder (sometimes the shoulders) uttarasanga called (cheipor), the robe covering the lower part of the body from the hips antaravasaka called (sbang). The uttarasanga can be worn in two ways: the left shoulder is bare in the \u2018krang\u2019 style and the both shoulders are covered in the \u2018khlum\u2019 style.",
+        "image": "https:\/\/www.cambodiamuseum.info\/image\/collection\/bronze_object\/standing_buddha_big.jpg",
+        "created_at": "2022-07-13 00:25:35",
+        "updated_at": "2022-07-13 00:25:35"
+    },
+    {
+        "id": "18",
+        "title": "RECLINING VISNU",
+        "type": "Bronze",
+        "place": "National Museum of Cambodia,\nPhnom Penh",
+        "period": "Second half of the XIth century",
+        "content": "Khmer bronze production began from the Neolithic period (5,000BCE) and reached its apogee during the Angkor period (Baphuon style). The technique used continuously until the present-day is the \u2018cire-perdue\u2019 or \u2018lost-wax \u2019 process. Some statues were inlaid in the eye cavities with precious stones to make them more life-like. The art of inlay was undeniably widespread throughout Southeast Asia in the 11th century.\nThis reclining Visnu is testimony to the talent of Khmer artists in the production of monumental bronze statues. Fragments of this statue were found in 1936 during excavations of a platform at the Western Mebon temple and were brought to the National Museum on the 1 December 1950.",
+        "image": "https:\/\/www.cambodiamuseum.info\/image\/collection\/bronze_object\/reclining_visnu_big.jpg",
+        "created_at": "2022-07-13 00:26:53",
+        "updated_at": "2022-07-13 00:26:53"
+    },
+    {
+        "id": "19",
+        "title": "DEVI",
+        "type": "Sandstone",
+        "place": "National Museum of Cambodia,\nPhnom Penh",
+        "period": "First half of VIIth century",
+        "content": "According to Professor Jean Boisselier, this female statue is dated to the middle of the 7th century in the Sambor Prei Kuk style. One of the powerful kings of Chenla, Isanavarman, erected the city called Isanapura at Sambor Prei Kuk currently in Kompong Thom province. There we can still find many brick temples. Because of the absence of attributes, no one can claim this is either Visnu\u2019s spouse or Siva\u2019s spouse. The ancient Khmer used to pay respect to both the main gods and their spouses. \u201cThe morphology is remarkably close to the characteristics of Cambodian women today, so that one is tempted to see in this Devi an inspired personification of Khmer womanhood.\u201d",
+        "image": "https:\/\/www.cambodiamuseum.info\/image\/collection\/stone_object\/devi_big.jpg",
+        "created_at": "2022-07-13 00:29:09",
+        "updated_at": "2022-07-13 00:29:09"
+    },
+    {
+        "id": "20",
+        "title": "JAYAVARAMAN VII",
+        "type": "Sandstone",
+        "place": "National Museum of Cambodia,\nPhnom Penh",
+        "period": "late XIIth - early XIIIth century",
+        "content": "This statue is dated to the Bayon style. Portraiture art of this period is marked by smiling and mystical expression. The quality of the modelling of this work reveals an exceptional mastery of the art.\n\nHis facial expression is accentuated by semi-closed eyes, a light smile, nose with three lobes, large forehead, lips that are neither thin nor thick, and long ear lobes. All these traits represent the Khmer physiognomy. The king\u2019s power as expressed by his facial expression evokes supreme knowledge, compassion and peacefulness.",
+        "image": "https:\/\/www.cambodiamuseum.info\/image\/collection\/stone_object\/jayavarman_big.jpg",
+        "created_at": "2022-07-13 00:30:01",
+        "updated_at": "2022-07-13 00:30:01"
+    }
+  }
+}
